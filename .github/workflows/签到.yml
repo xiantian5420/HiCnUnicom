@@ -5,7 +5,7 @@ on:
     #branches: [ master ]
   workflow_dispatch:
   schedule:
-    - cron: 25 01 * * ?
+    - cron: 30 08 * * ?
   watch:
     types: started
     
